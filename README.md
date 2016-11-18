@@ -9,7 +9,7 @@ TROTTIER Arthur
 
 `git diff`
 
-`git difftool HEAD^ HEAD`
+`git diff HEAD^ HEAD`
 
 `git checkout nom_branche`
 
